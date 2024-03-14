@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\genriskklass\bin\Debug\net7.0\genriskklass.exe
+C:\Users\Admin\Documents\GitHub\genriskklass\bin\Debug\net7.0\genriskklass.deps.json
+C:\Users\Admin\Documents\GitHub\genriskklass\bin\Debug\net7.0\genriskklass.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\genriskklass\bin\Debug\net7.0\genriskklass.dll
+C:\Users\Admin\Documents\GitHub\genriskklass\bin\Debug\net7.0\genriskklass.pdb
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.dll
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\refint\genriskklass.dll
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.pdb
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\genriskklass.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\genriskklass\obj\Debug\net7.0\ref\genriskklass.dll
